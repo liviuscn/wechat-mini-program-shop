@@ -1,13 +1,13 @@
 // app.js
 App({
   d: {
-    hostUrl: 'http://localhost:8009/index.php/',
-    hostImg: 'http://localhost:8009',
+    hostUrl: 'http://localhost:1001/index.php/',
+    hostImg: 'http://localhost:1001',
     hostVideo: 'http://zhubaotong-file.oss-cn-beijing.aliyuncs.com',
     userId: 1,
     appId:"",
     appKey:"",
-    ceshiUrl:'http://localhost:8009/index.php/',
+    ceshiUrl:'http://localhost:1001/index.php/',
   },
   onLaunch: function () {
     //调用API从本地缓存中获取数据
